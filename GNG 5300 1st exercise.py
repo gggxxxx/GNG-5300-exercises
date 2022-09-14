@@ -6,3 +6,6 @@ print(c)
 
 #To my peer: please add the third input and add it with the number c
 
+# the code following are added by Haoran
+d = 8
+print(c+d)
